@@ -164,7 +164,7 @@ module.exports = {
   devServer: {
     publicPath: "/static/",
     stats: { colors: true },
-    port: 3000,
+    port: 8080,
     inline: true
   }
 };
