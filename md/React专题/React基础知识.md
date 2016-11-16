@@ -19,7 +19,9 @@ import React, { Component } from 'react';
  */
 class SimpleComponent extends Component {
   render(){
-    return <div> here we go </div>;
+    return(
+      <div> here we go </div>
+    )
   }
 }
 
